@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hello world
 hi hello world
 sadsdsa
+=======
+asdsdsadsada
+cddsa
+hello world
+hi hello world
+>>>>>>> hj
